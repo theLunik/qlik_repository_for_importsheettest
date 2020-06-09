@@ -1,0 +1,235 @@
+[
+  {
+    "qInfo": {
+      "qId": "1643aad0-2cf8-4ff2-9b01-54dbd681b996",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Месяц"
+      ],
+      "qFieldLabels": [
+        "Месяц"
+      ],
+      "title": "Месяц",
+      "coloring": {
+        "colorMapRef": "Smaes",
+        "changeHash": "0.44677541731134784"
+      }
+    },
+    "qMetaDef": {
+      "title": "Месяц",
+      "description": "",
+      "tags": [],
+      "isBlueprintItem": true
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "1ea32b07-e923-474a-833d-3acd30136c30",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Группа"
+      ],
+      "qFieldLabels": [
+        "Группа"
+      ],
+      "title": "Группа",
+      "coloring": {
+        "colorMapRef": "Smaes",
+        "changeHash": "0.8850199971738093"
+      }
+    },
+    "qMetaDef": {
+      "title": "Группа",
+      "description": "",
+      "tags": [],
+      "isBlueprintItem": true
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "57745049-b152-463d-8cea-8b0780b00450",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Отдел"
+      ],
+      "qFieldLabels": [
+        "Отдел"
+      ],
+      "title": "Отдел",
+      "coloring": {
+        "colorMapRef": "Smaes",
+        "changeHash": "0.4133049998279572"
+      }
+    },
+    "qMetaDef": {
+      "title": "Отдел",
+      "description": "",
+      "tags": [],
+      "isBlueprintItem": true
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "5e7d63c4-4900-4427-b16b-73ffc583f3a9",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Квартал"
+      ],
+      "qFieldLabels": [
+        "Квартал"
+      ],
+      "title": "Квартал",
+      "coloring": {
+        "colorMapRef": "Smaes",
+        "changeHash": "0.019199047523988932"
+      }
+    },
+    "qMetaDef": {
+      "title": "Квартал",
+      "description": "",
+      "tags": [],
+      "isBlueprintItem": true
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "82de8a8d-44f7-4bce-b785-aaa86c9ac181",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Филиал"
+      ],
+      "qFieldLabels": [
+        "Филиал"
+      ],
+      "title": "Филиал",
+      "coloring": {
+        "colorMapRef": "Smaes",
+        "changeHash": "0.27224907984049906"
+      }
+    },
+    "qMetaDef": {
+      "title": "Филиал",
+      "description": "",
+      "tags": [],
+      "isBlueprintItem": true
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "9c59e40f-01a0-43c0-bdcb-929d1ec3ef11",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Неделя"
+      ],
+      "qFieldLabels": [
+        "Неделя"
+      ],
+      "title": "Неделя",
+      "coloring": {
+        "colorMapRef": "Smaes",
+        "changeHash": "0.9719008447159683"
+      }
+    },
+    "qMetaDef": {
+      "title": "Неделя",
+      "description": "",
+      "tags": [],
+      "isBlueprintItem": true
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "Smaes",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Год"
+      ],
+      "qFieldLabels": [
+        "Год"
+      ],
+      "title": "Год",
+      "coloring": {
+        "changeHash": "0.5893486216753734"
+      }
+    },
+    "qMetaDef": {
+      "title": "Год",
+      "description": "",
+      "tags": [],
+      "isBlueprintItem": true
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "f1cf6dd2-4689-4c13-9386-576fcb7458a4",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Тип продажи"
+      ],
+      "qFieldLabels": [
+        "Тип продажи"
+      ],
+      "title": "Тип продажи",
+      "coloring": {
+        "colorMapRef": "Smaes",
+        "changeHash": "0.5329884583380644"
+      }
+    },
+    "qMetaDef": {
+      "title": "Тип продажи",
+      "description": "",
+      "tags": [],
+      "isBlueprintItem": true
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "f9d63e2c-deaf-48ec-b102-9f53dd689955",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Подгруппа"
+      ],
+      "qFieldLabels": [
+        "Подгруппа"
+      ],
+      "title": "Подгруппа",
+      "coloring": {
+        "colorMapRef": "Smaes",
+        "changeHash": "0.9274589155689268"
+      }
+    },
+    "qMetaDef": {
+      "title": "Подгруппа",
+      "description": "",
+      "tags": [],
+      "isBlueprintItem": true
+    }
+  }
+]

@@ -1,0 +1,164 @@
+{
+  "qInfos": [
+    {
+      "qId": "4aa58524-c0c1-4156-806d-7670ca7b6a33",
+      "qType": "sheet"
+    },
+    {
+      "qId": "wTGUyj",
+      "qType": "qlik-variable-input"
+    },
+    {
+      "qId": "RRfrt",
+      "qType": "qlik-variable-input"
+    },
+    {
+      "qId": "eND",
+      "qType": "filterpane"
+    },
+    {
+      "qId": "LEEdyd",
+      "qType": "listbox"
+    },
+    {
+      "qId": "PmDBjVp",
+      "qType": "listbox"
+    },
+    {
+      "qId": "SpdQhd",
+      "qType": "listbox"
+    },
+    {
+      "qId": "nEDtvP",
+      "qType": "listbox"
+    },
+    {
+      "qId": "aQDKQS",
+      "qType": "listbox"
+    },
+    {
+      "qId": "XjjeZg",
+      "qType": "listbox"
+    },
+    {
+      "qId": "jcJz",
+      "qType": "listbox"
+    },
+    {
+      "qId": "JJFALu",
+      "qType": "listbox"
+    },
+    {
+      "qId": "tQKZwt",
+      "qType": "listbox"
+    },
+    {
+      "qId": "aGPjPvc",
+      "qType": "action-button"
+    },
+    {
+      "qId": "SKUjEu",
+      "qType": "variable"
+    },
+    {
+      "qId": "QhvD",
+      "qType": "action-button"
+    },
+    {
+      "qId": "mMhPym",
+      "qType": "action-button"
+    },
+    {
+      "qId": "WrXdWkW",
+      "qType": "action-button"
+    },
+    {
+      "qId": "tEYJb",
+      "qType": "container"
+    },
+    {
+      "qId": "9787fcb5-bff0-46c9-932d-e0840185d5b9",
+      "qType": "table"
+    },
+    {
+      "qId": "97fbf3c4-898c-4612-bfc8-805bf7df58d9",
+      "qType": "scatterplot"
+    },
+    {
+      "qId": "LmfJJr",
+      "qType": "action-button"
+    },
+    {
+      "qId": "be895e9f-e484-434a-8812-5cd6d41cba51",
+      "qType": "sheet"
+    },
+    {
+      "qId": "756e2b89-318b-417d-9e50-e031d733b7e2",
+      "qType": "sheet"
+    },
+    {
+      "qId": "0d4e4c2b-58a6-4b8c-b060-789335325649",
+      "qType": "appprops"
+    },
+    {
+      "qId": "LoadModel",
+      "qType": "LoadModel"
+    },
+    {
+      "qId": "14285ce2-9a74-4d02-9602-dbc88fb6b7f6",
+      "qType": "masterobject"
+    },
+    {
+      "qId": "BlueprintManagedItems",
+      "qType": "BlueprintManagedItems"
+    },
+    {
+      "qId": "f9df30ed-2ced-4977-aad2-ba6a5284a4b0",
+      "qType": "story"
+    },
+    {
+      "qId": "cywHDt",
+      "qType": "slide"
+    },
+    {
+      "qId": "1643aad0-2cf8-4ff2-9b01-54dbd681b996",
+      "qType": "dimension"
+    },
+    {
+      "qId": "1ea32b07-e923-474a-833d-3acd30136c30",
+      "qType": "dimension"
+    },
+    {
+      "qId": "57745049-b152-463d-8cea-8b0780b00450",
+      "qType": "dimension"
+    },
+    {
+      "qId": "5e7d63c4-4900-4427-b16b-73ffc583f3a9",
+      "qType": "dimension"
+    },
+    {
+      "qId": "82de8a8d-44f7-4bce-b785-aaa86c9ac181",
+      "qType": "dimension"
+    },
+    {
+      "qId": "9c59e40f-01a0-43c0-bdcb-929d1ec3ef11",
+      "qType": "dimension"
+    },
+    {
+      "qId": "Smaes",
+      "qType": "dimension"
+    },
+    {
+      "qId": "f1cf6dd2-4689-4c13-9386-576fcb7458a4",
+      "qType": "dimension"
+    },
+    {
+      "qId": "f9d63e2c-deaf-48ec-b102-9f53dd689955",
+      "qType": "dimension"
+    },
+    {
+      "qId": "cmLRPX",
+      "qType": "measure"
+    }
+  ]
+}

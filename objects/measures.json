@@ -1,0 +1,27 @@
+[
+  {
+    "qInfo": {
+      "qId": "cmLRPX",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Продажи с НДС",
+      "qDef": "Sum({<$(=vWY)>} [Сумма продаж по ПЦ с НДС])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "coloring": {
+        "baseColor": {
+          "color": "#276e27",
+          "index": 3
+        }
+      }
+    },
+    "qMetaDef": {
+      "title": "Продажи с НДС",
+      "description": "",
+      "tags": [],
+      "isBlueprintItem": true
+    }
+  }
+]
